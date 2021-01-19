@@ -1,2 +1,2 @@
 # 7summits
-7Summits
+7Summits Code for Interview

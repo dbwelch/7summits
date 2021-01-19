@@ -3,4 +3,4 @@
 
 This code was implemented to convert existing Process Builder logic into Apex due to issues SOQL query limits.  This code was called by an Apex trigger:
 
-  <p><strong>QuoteLineSyncTriggerHelper.runPBLogic(trigger.new, trigger.old); </strong></p>
+  <p style="padding:10px"><strong>QuoteLineSyncTriggerHelper.runPBLogic(trigger.new, trigger.old); </strong></p>
